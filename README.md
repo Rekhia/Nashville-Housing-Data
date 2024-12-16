@@ -1,4 +1,5 @@
 # Nashville-Housing-Data
+![230727630-b4a0e150-529a-46b5-9b39-c7e38270d5be](https://github.com/user-attachments/assets/1de62e5b-4d2c-4d9b-97b3-d837eb5312c9)
 # Cleaning the Nashville Housing Data involves a series of steps to prepare the dataset for analysis. These steps ensure the data is accurate, consistent, and properly formatted. Below is an overview of the key tasks typically performed during the data cleaning process:
 1. Standardizing Column Names
       Action: Rename columns to have consistent and descriptive names.
